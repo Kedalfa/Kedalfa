@@ -27,20 +27,14 @@ I'm a passionate **Software Engineer** who leans toward **Website Development**.
 
 ## 🚀 Featured Projects
 
-- 🔗 **[Eyuelfx Trading Website](https://eyuelfxtrading.com/) and [github repo](https://github.com/Kedalfa/EyuelFx-Web)**  
+- 🔗 **[Eyuelfx Trading Website](https://eyuelfxtrading.com/) and -> [repo](https://github.com/Kedalfa/EyuelFx-Web)**  
   A fully functional trading platform built for forex education and services.
 
-- 📚 **[Bookstore](https://Kedalfa.Bookstore.com/) and [github repo](https://github.com/Kedalfa/Bookstore-V2)**  
+- 📚 **[Bookstore](https://Kedalfa.Bookstore.com/) and -> [repo](https://github.com/Kedalfa/Bookstore-V2)**  
   An online bookshop.
 
-- ✍️ **[Blog Platform](https://Kedalfa.Blog.com/) and [github repo](https://github.com/Kedalfa/Blog-platform)**  
+- ✍️ **[Blog Platform](https://Kedalfa.Blog.com/) and -> [repo](https://github.com/Kedalfa/Blog-platform)**  
   A dynamic blogging system where users can create, edit, and manage posts.
-
----
-
-## 📈 GitHub Stats
-
-![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kedalfa&show_icons=true&theme=tokyonight)
 
 ---
 
